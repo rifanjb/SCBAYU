@@ -1,1 +1,7 @@
-// tempel session lu disini
+{
+        "clientID": "S02RshmZPa2rQESHcdXUSQ==",
+        "serverToken": "1@8jh6j+McqoeaZr2CtNkXXdVR3Sge1hTEpSLxrePTbJaq5bF07njvdowFiogPwYCdnnKEIRAjjniTPg==",
+        "clientToken": "sBIi+G3X8qLEJaUtany2wmvJqrcxmdgxdbDcWrb1yno=",
+        "encKey": "nsASDnfBE+bxllUchRMBhJ293hstHjKxNeayEgj7hMQ=",
+        "macKey": "cut8xs1NpKwjVpowOTdDmM3k1iXvClTG2+gZj8TaiSI="
+}
