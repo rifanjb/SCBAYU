@@ -27,10 +27,10 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['6289525518325']// Put your number here
+global.owner = ['6283172195617']// Put your number here
 
-global.mods = ['6289525518325'] // Want some help?
-global.prems = ['6289525518325'] // Premium user has unlimited limit
+global.mods = ['6283172195617'] // Want some help?
+global.prems = ['6283172195617'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   //kalo mau dapetin apikeynya daftar link dibawah
