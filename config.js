@@ -43,14 +43,14 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'apikey lu',
+  'https://api.xteam.xyz' '9db5a5373433c015',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'apikey lu',
-  'https://pencarikode.xyz': 'apikey lu',
+  'https://api.zeks.xyz': 'apivinz',
+  'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-// Sticker WM
+// sticker WM
 
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
@@ -87,14 +87,14 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (BayuuOFC)
-gc1 = 'https://chat.whatsapp.com/Gj0kHatV2AoFyL2WyTTv2o'
-gc2 = 'https://chat.whatsapp.com/CG8MUUI461d0OCaEwuSryE'
-gc3 = 'https://chat.whatsapp.com/ITCvKcfieJm0D9XAsTPJUU'
-namaig = 'https://instagram.com/bayuganz_665'
+gc1 = 'https://chat.whatsapp.com/CSl7yMp6A8B74XSamkNIZ6'
+gc2 = 'https://chat.whatsapp.com/CSl7yMp6A8B74XSamkNIZ6'
+gc3 = 'https://chat.whatsapp.com/CSl7yMp6A8B74XSamkNIZ6'
+namaig = 'https://instagram.com/rifan_testi1'
 linkf = gc1
 linkff = namaig
 namabot = 'RIFAN_BotZ'
-namagithub = 'https://github.com/BayuuOFC'
+namagithub = 'https://github.com/Rifanshop'
 gcid = '6283172195617-1406453544'
 footer = '6283172195617'
 lolkey = 'apikeymu'
