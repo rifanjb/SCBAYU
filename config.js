@@ -57,7 +57,7 @@ const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
 // var sticker_name = 'I hope you\'re fine'
 //var sticker_author = 'Nurutomo'
-var sticker_name = 'RIFANBotz' // ganti aja
+var sticker_name = 'Botz RIFAN X SALMAN STORE' // ganti aja
 var sticker_author = 'RIFANSHOP' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
@@ -93,7 +93,7 @@ gc3 = 'https://chat.whatsapp.com/FYSLTgbA7vP8LgKx4t6pCk'
 namaig = 'https://instagram.com/rifan_testi1'
 linkf = gc1
 linkff = namaig
-namabot = 'RIFAN_BotZ'
+namabot = 'BOTz RIFAN X SALMAN STORE'
 namagithub = 'https://github.com/Rifanshop'
 gcid = '6283172195617-1406453544'
 footer = '6283172195617'
@@ -103,5 +103,5 @@ bc = 'RIFAN SHOP OFC'
 titler = 'RIFAN-BOT'
 body = run
 kasihcaption = `©FAN-BOT\n\n©BY RIFAN SHOP`
-gambar1 = tum1
-gambar2 = tum2
+gambar1 = tum1 
+gambar2 = tuml
