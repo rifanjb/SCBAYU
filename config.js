@@ -29,7 +29,7 @@ run = `${kyun(runtime)}`
 
 global.owner = ['6283172195617']// Put your number here
 
-global.mods = ['6283172195617'] // Want some help?
+global.mods = ['6285718397435'] // Want some help?
 global.prems = ['6283172195617'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
