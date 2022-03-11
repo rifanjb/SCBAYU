@@ -86,15 +86,15 @@ fs.watchFile(file, () => {
   require(file)
 })
 
-// Tambahan By Me (BayuuOFC)
-gc1 = 'https://chat.whatsapp.com/FYSLTgbA7vP8LgKx4t6pCk'
-gc2 = 'https://chat.whatsapp.com/JRX6Tx9geOd4ODHwETrQbd'
-gc3 = 'https://chat.whatsapp.com/FYSLTgbA7vP8LgKx4t6pCk'
+// Tambahan By Me (fanx4tod)
+gc1 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Ql'
+gc2 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Ql'
+gc3 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Q1'
 namaig = 'https://instagram.com/rifan_testi1'
 linkf = gc1
 linkff = namaig
-namabot = 'BOTzRIFANXSALMANSTORE'
-namagithub = 'https://github.com/Rifanshop'
+namabot = 'FANX4TOD Botz'
+namagithub = 'https://github.com/rifanjb'
 gcid = '6283172195617-1406453544'
 footer = '6283172195617'
 lolkey = 'apikeymu'
