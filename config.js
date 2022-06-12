@@ -27,10 +27,10 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['6283172195617']// Put your number here
+global.owner = ['6285723756809']// Put your number here
 
-global.mods = ['6285718397435'] // Want some help?
-global.prems = ['6283172195617'] // Premium user has unlimited limit
+global.mods = ['6285723756809'] // Want some help?
+global.prems = ['6285723756809'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   //kalo mau dapetin apikeynya daftar link dibawah
@@ -93,15 +93,15 @@ gc3 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Q1'
 namaig = 'https://instagram.com/rifan_testi1'
 linkf = gc1
 linkff = namaig
-namabot = 'FANX4TOD Botz'
+namabot = 'zyrex Botz'
 namagithub = 'https://github.com/rifanjb'
-gcid = '6283172195617-1406453544'
-footer = '6283172195617'
+gcid = '6285723756809-1406453544'
+footer = '6285723756809'
 lolkey = 'apikeymu'
 global.wait = 'Tunggu Sebentar'
-bc = 'RIFAN SHOP OFC'
-titler = 'RIFAN-BOT'
+bc = 'zyrex SHOP OFC'
+titler = 'zyrex-BOT'
 body = run
-kasihcaption = `©FAN-BOT\n\n©BY RIFAN SHOP`
+kasihcaption = `©zyrex-BOT\n\n©BY zyrex SHOP`
 gambar1 = tum1 
 gambar2 = tum1
