@@ -87,9 +87,9 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (fanx4tod)
-gc1 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Ql'
-gc2 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Ql'
-gc3 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Q1'
+gc1 = 'https://chat.whatsapp.com/KuKOp9fmBFp6O3tKvV5iQg'
+gc2 = 'https://chat.whatsapp.com/KuKOp9fmBFp6O3tKvV5iQg'
+gc3 = 'https://chat.whatsapp.com/KuKOp9fmBFp6O3tKvV5iQg'
 namaig = 'https://instagram.com/rifan_testi1'
 linkf = gc1
 linkff = namaig
